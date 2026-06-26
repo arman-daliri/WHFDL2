@@ -1,0 +1,5 @@
+mrmr_selection==0.2.8
+numpy>=2.2.6
+pandas>=3.0.0
+scikit_learn>=1.7.2
+torch==2.8.0
